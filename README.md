@@ -19,12 +19,16 @@ Our dataset contains information about COVID-19 in a worldwide perspective. We o
 Question : What countries are poorest at controlling their COVID-19 death rate?
 
 Importance: 
+
 <img width="371" alt="Screenshot 2023-11-30 at 3 46 53 PM" src="https://github.com/ashley-potts/MIST-4610-Project-2/assets/148247835/7523830c-3b0c-4647-8d6b-32ef5b11318b">
+
 ## Question 2: 
 
 Question: What regions, according to the World Health Organization, have the highest recovery rate?
 
 Importance: 
+
+
 <img width="428" alt="Screenshot 2023-11-30 at 3 48 33 PM" src="https://github.com/ashley-potts/MIST-4610-Project-2/assets/148247835/f8cac96f-1f35-4843-86eb-e72ca009ab7f">
 
 ## Manipulations applied to the dataset for analysis : 

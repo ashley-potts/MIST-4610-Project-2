@@ -11,7 +11,7 @@ Group 10
 
 ## Description of Dataset : 
 
-Our dataset contains information about COVID-19 in a worldwide perspective. We obtained our dataset from: https://www.kaggle.com/datasets/imdevskp/corona-virus-report. This set contains a variety of dimensions with varying data types. It includes information such as Country and Region, which is a data type string. It also includes information such as Number of Confirmed Cases, Number of Deaths,  Number of Recoveries, Number of Active Cases, Number of New Cases, Number of New Deaths, and Number of New Recoveries. These are all part of the data type interval. Lastly, it includes Death Rate and Recovery Rate, included in the data type number(decimal). Overall, this dataset has a variation of different dimensions that help us understand the spread of COVID-19 across the world.
+Our dataset contains information about COVID-19 in a worldwide perspective. We obtained our dataset from: https://www.kaggle.com/datasets/imdevskp/corona-virus-report. This set contains a variety of dimensions with varying data types. It includes information such as Country and Region, which is a data type string. It also includes information such as Number of Confirmed Cases, Number of Deaths,  Number of Recoveries, Number of Active Cases, Number of New Cases, Number of New Deaths, and Number of New Recoveries. These are all part of the data type interval. Lastly, it includes Death Rate and Recovery Rate, included in the data type number (decimal). Overall, this dataset has a variation of different dimensions that help us understand the spread of COVID-19 across the world.
 
 
 ## Question 1 : 
@@ -29,7 +29,7 @@ Our first graph is a heatmap of covid 19 cases around the world. In that graph w
 Question: What regions, according to the World Health Organization, have the highest recovery rate?
 
 Importance : 
-It is important to capture what regions have the highest recovery rate, so that other regions are able to model what measures they took to help their population recover from COVID-19 faster. This analysis is important to ensure swift a response is possible for similar future diseases that may arise. 
+It is important to capture what regions have the highest recovery rate, so that other regions are able to model what measures they took to help their population recover from COVID-19 faster. This analysis is important to ensure a swift response is possible for similar future diseases that may arise. 
 
 Our second graph is a heat map illustrating the recovery rates in various regions around the globe. We found that the recovery rate was highest in Europe with Africa and the Americas falling behind it. The regions with the lowest recovery rates were the western pacific, eastern mediterranean, and South-East Africa. 
 
